@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5488d952-9e68-4071-91e8-cf3d79031162" name="LocalDeployment" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\Projects\HDB\Spark\Deployment" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
